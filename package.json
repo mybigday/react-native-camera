@@ -1,5 +1,5 @@
 {
-  "name": "react-native-camera",
+  "name": "@fugood/react-native-camera-v3-android",
   "description": "A Camera component for React Native. Also reads barcodes.",
   "version": "3.44.3",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
